@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"The Poppy Playtime chapter introduces players to a dilapidated toy factory called Playtime Co., a place that once brought joy to countless children. ","photo2":"https://iili.io/HgSCbnt.jpg"},
+  {"desc3":" Now abandoned and haunted, the factory becomes the backdrop for an unsettling and immersive experience. ","photo3":"https://iili.io/HgSxVnI.jpg"},
+  {"desc4":" developers have meticulously crafted the environment, combining elements of eerie darkness, flickering lights, and foreboding soundscapes to create an atmosphere that keeps players on the edge of their seats.","photo4":"https://iili.io/HgSxX6X.jpg"},
+  {"desc5":"In the Poppy Playtime chapter, players assume the role of an investigator tasked with exploring the Playtime Co. factory.","photo5":"https://iili.io/HgSxWGt.jpg"},
+  {"descd":" Equipped with a flashlight and a trusty tape recorder, the protagonist must navigate through a series of challenges and puzzles while evading the clutches of the enigmatic Poppy Playtime dolls. ","photod":"https://iili.io/HgSxwas.webp"}
    ]
  
 }
