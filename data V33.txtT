@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2427660-1",
-"yandex_inter":"R-M-2427660-4",
-"yandex_native":"R-M-2427660-3",
-"yandex_reward":"R-M-2427660-5",
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -37,23 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
+"native_network_choice":"admob"
   
 
 },
   "my_data":[
-    {"desc1":"Before delving into the depths of Lovecraft Locker, it's essential to understand the installation process. Follow these steps to successfully install the mod",
-   "photo1":"https://iili.io/H4eI91t.jpg"},
-  {"desc2":"Lovecraft Locker is a thrilling mod for Standoff 2 that infuses the otherworldly atmosphere of H.P. Lovecraft's cosmic horror into the game. Inspired by the works of the renowned author, this mod introduces eerie environments,","photo2":"https://iili.io/H4eInBS.jpg"},
-  {"desc3":"Obtain the Mod Files: Search for the Lovecraft Locker mod files online. Ensure that you download them from a trusted source to maintain the integrity of your game and device.","photo3":"https://iili.io/H4eIukb.jpg"},
-  {"desc4":"Backup Game Files: It's crucial to back up your original Standoff 2 game files to avoid any complications. Create a separate folder and copy all the necessary game files to it.
-
-Mod Integration: Extract the downloaded mod files. Locate the Standoff 2 game directory","photo4":"https://iili.io/Hg6mDib.jpg"},
-  {"desc5":"Replace Game Files: Replace the corresponding game files with the mod files you extracted earlier. Ensure that you follow the instructions provided with the mod to avoid any compatibility issues","photo5":"https://iili.io/Hg6mp0x.jpg"},
-  {"descd":"Lovecraft Locker not only adds new content but also introduces gameplay enhancements to elevate your Standoff 2 experience","photod":"https://iili.io/Hg6myUQ.jpg"}
+  {"desc1":"description1 ser ",
+   "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc2":"Play is a fundamental aspect of childhood and an essential component of a child's overall development.","photo2":"https://iili.io/HgSAHsp.jpg"},
+  {"desc3":" Playtime mob, a concept that emphasizes the importance of unstructured, imaginative play, has gained attention in recent years","photo3":"https://iili.io/HgSAlhx.jpg"},
+  {"desc4":"essay aims to delve into the significance of playtime mob in child development, highlighting its benefits and exploring ways to promote and encourage this type of play in today's society.","photo4":"https://iili.io/HgSAcIj.jpg"},
+  {"desc5":"Playtime mob refers to a form of play that is child-led, unstructured, and driven by imagination","photo5":"https://iili.io/HgSummJ.webp"},
+  {"descd":"involves children coming together in groups, creating their own games, rules, and narratives without adult intervention.","photod":"https://iili.io/HgSA0LQ.webp"}
    ]
  
 }
