@@ -19,39 +19,32 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2307894-1",
-"yandex_inter":"R-M-2307894-3",
-"yandex_native":"R-M-2307894-2",
-"yandex_reward":"R-M-2307894-4",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
+"yandex_banner":"R-M-2388186-1",
+"yandex_inter":"R-M-2388186-3",
+"yandex_native":"R-M-2388186-2",
+"yandex_reward":"R-M-2388186-4",
 
-  
- "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
-   ],
 
-"download_dialog_txt":"download text from server",
+
+"start_vpn":"no",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
   
+  
 
 },
-  "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+ 
+ "my_data":[
+  {"title":"tips pack 1","desc":"In recent years, the gaming industry has witnessed a significant surge in the popularity of role-playing games (RPGs). Within the RPG genre, the emergence of Black RP Mods has sparked considerable interest and brought about important discussions regarding representation, inclusivity, and diversity in gaming. ","photo":"https://iili.io/HUCfyut.jpg"},
+  {"title":"helper mod 2","desc":"In recent years, the gaming industry has witnessed a significant surge in the popularity of role-playing games (RPGs). Within the RPG genre, the emergence of Black RP Mods has sparked considerable interest and brought about important discussions regarding representation, inclusivity, and diversity in gaming. ","photo":"https://iili.io/HUCfp9I.jpg"},
+  {"title":"advice pack 3","desc":"Black RP Mods, short for Black Role-Playing Modifications, are player-created modifications or add-ons for existing video games that aim to enhance the representation of Black characters and cultures within the game world. ","photo":"https://iili.io/HUCfb8N.jpg"},
+  {"title":"how to use this app 4","desc":"These mods may include new character models, dialogue options, storylines, or cultural references that reflect the experiences and narratives of Black communities.","photo":"https://iili.io/HUCqHtn.jpg"},
+  {"title":"advance mod 5","desc":"Black RP Mods can be seen as a response to the historical underrepresentation and misrepresentation of Black characters in mainstream video games. Many popular games have predominantly featured white protagonists, ","photo":"https://iili.io/HUCq9wX.webp"},
+  {"title":"tips pack 6","desc":", perpetuating stereotypes and marginalizing diverse racial and ethnic backgrounds. Black RP Mods seek to challenge these norms and provide players with more inclusive and representative gaming experiences.","photo":"https://iili.io/HUCqdns.webp"},
+  {"title":"helper mod 7","desc":"One of the primary contributions of Black RP Mods is their ability to provide players with a sense of representation and belonging. By introducing Black characters and storylines that resonate with Black players, these mods create a more inclusive gaming environment. ","photo":"https://iili.io/HUCq3Pf.jpg"},
+  {"title":"advice pack 8","desc":"Seeing oneself reflected in the virtual world can foster a stronger connection to the game and enhance the overall gaming experience.","photo":"https://iili.io/HUCq2MG.webp"}
    ]
  
 }
